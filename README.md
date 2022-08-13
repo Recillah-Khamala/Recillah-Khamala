@@ -29,5 +29,6 @@ I'm a student of Microverse, I am also an open-source enthusiast and maintainer.
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-recillah-khamala-071151b7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recillah-khamala-071151b7/)](https://www.linkedin.com/in/recillah-khamala-071151b7) [![Twitter Badge](https://img.shields.io/badge/-@recillahk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/recillahk)](https://twitter.com/recillahk)
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recillah-khamala-071151b7/)](https://www.linkedin.com/in/recillah-khamala-071151b7) [![Twitter Badge](https://img.shields.io/badge/-@recillahk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/recillahk)](https://twitter.com/recillahk)
+
 
