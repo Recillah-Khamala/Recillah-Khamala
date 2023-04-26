@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ![Profile views](https://gpvc.arturio.dev/Rn486) 
 
-<h1 align="center">Hi 👋, I'm Recillah Khamala</h1>
+<h1 align="center">Hi 👋</h1>
 
-<img align='right' src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" width="200"/>
+<img align='right' src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47pbs6c9mfjx2fgw44km116aox9jr2mp52n55al85u&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 
 <br>
 
@@ -11,10 +11,8 @@
 <br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-![I am Full Stack software developer](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
 </h2> 
+<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
@@ -41,17 +39,9 @@
 
 ### Github Stats
 <div align="left" > 
-  <img width="345" src="https://github-readme-stats.vercel.app/api?username=Recillah-Khamala&show_icons=true&theme=calm"/> &nbsp;
-  <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=Recillah-Khamala&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
+  <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=Recillah-Khamala&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
   <!--<img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=Recillah-Khamala&show_icons=true&locale=en&layout=compact&theme=onedark"/>-->
 </div>
-
-<h2 align="left">👨🏻‍💻 More About Me:</h2>
-
-- :computer: I'm currently a microverse student
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I am a Harry Porter fan<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
