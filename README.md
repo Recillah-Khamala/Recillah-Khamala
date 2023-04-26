@@ -3,8 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Recillah Khamala</h1>
 
-### I am Full Stack software developer
-Hi, I'm [Recillah Khamala](https://recillahk.me/), a passionate self-taught Full stack web developer and a software engineer from Nairobi Kenya. My passion for software comes from my love to solve problems and to make life easier for every person. I pay great attention to user experience, architecture, and code quality of the things I build. HAPPY CODING 
+<img align='right' src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" width="200"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&vCenter=true&color=79A360&center=false&width=600&lines=greeting+%3D+Habari+yako%F0%9F%99%8F%F0%9F%8F%BB;self.name+%3D+Recillah+Khamala;self.location+%3D+Kenya;self.role+%3D+Software+Developer;self.motto+%3D+keep+Learning;self.like+%3D+Organized+and+clean+code;self.sparetime+%3D+Trying+new+or+recipes+%F0%9F%98%B4)](https://git.io/typing-svg)
+<br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
