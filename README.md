@@ -6,6 +6,8 @@
 ### I am Full Stack software developer
 Hi, I'm [Recillah Khamala](https://recillahk.me/), a passionate self-taught Full stack web developer and a software engineer from Nairobi Kenya. My passion for software comes from my love to solve problems and to make life easier for every person. I pay great attention to user experience, architecture, and code quality of the things I build. HAPPY CODING 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![I am Full Stack software developer](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 </h2> 
