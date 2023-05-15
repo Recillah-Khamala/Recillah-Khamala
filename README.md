@@ -7,7 +7,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&vCenter=true&color=79A360&center=false&width=600&lines=greeting+%3D+Habari+yako%F0%9F%99%8F%F0%9F%8F%BB;self.name+%3D+Recillah+Khamala;self.location+%3D+Kenya;self.role+%3D+Software+Developer;self.motto+%3D+keep+Learning;self.like+%3D+Organized+and+clean+code;self.sparetime+%3D+Trying+new+or+recipes+%f0%9f%98%8b)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&vCenter=true&color=79A360&center=false&width=600&lines=greeting+%3D+Habari+yako%F0%9F%99%8F%F0%9F%8F%BB;self.name+%3D+Recillah+Khamala;self.location+%3D+Kenya;self.role+%3D+Software+Developer;self.motto+%3D+keep+Learning;self.like+%3D+Organized+and+clean+code;self.sparetime+%3D+Trying+new+recipes+%f0%9f%98%8b)](https://git.io/typing-svg)
 <br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
