@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/Rn486) 
+![Profile views](https://gpvc.arturio.dev/Recillah-Khamala) 
 
 <h1 align="center">Hi 👋</h1>
 
